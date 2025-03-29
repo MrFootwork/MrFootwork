@@ -3,7 +3,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrFootwork&repo=project-asteroids&theme=bear&size_weight=0.5&count_weight=0.5&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFootwork)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFootwork&hide=plpgsql&include_all_commits=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
@@ -18,7 +18,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MrFootwork&theme=onedark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MrFootwork&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFootwork&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFootwork&theme=onedark&hide_border=true&hide=plpgsql&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MrFootwork&theme=radical&no-frame=false&no-bg=true&margin-w=4)
