@@ -1,5 +1,3 @@
-
-
 # 💫 About Me
 🔭 I’m currently working on<br>
 👯 I’m looking to collaborate on<br>
@@ -15,13 +13,15 @@
 ## 📊 GitHub Stats
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=MrFootwork&hide=stars&theme=onedark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MrFootwork&theme=onedark&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFootwork&theme=onedark&hide_border=true&hide=plpgsql&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MrFootwork&theme=onedark&hide_border=true" alt="GitHub Streak" />
+
 </div>
 <br/>
 
+<!-- FIXME More projects -->
 # 🔧 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrFootwork&repo=project-asteroids&theme=bear&size_weight=0.5&count_weight=0.5&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrFootwork&repo=project-asteroids&theme=bear&size_weight=0.5&count_weight=0.5&layout=donut-vertical)](https://github.com/mrfootwork/project-asteroids)
 <br/>
 
 # 💻 Tech Stack
